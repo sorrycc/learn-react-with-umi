@@ -15,3 +15,4 @@ function useCount() {
 }
 
 export default createModel(useCount);
+export { useCount as useLocalCount };
