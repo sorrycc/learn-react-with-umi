@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ice/store": "^0.3.0",
+    "@ice/store-logger": "^0.1.0"
+  }
+}
