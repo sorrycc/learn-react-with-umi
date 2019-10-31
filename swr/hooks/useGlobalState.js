@@ -5,7 +5,9 @@ let state = {
 };
 
 export default function () {
-  const { data, revalidate } = useSWR('globalState', () => Promise.resolve(state));
+  const { data, revalidate } = useSWR('globalState', () => Promise.resolve(state), {
+    revalidateOnFocus: false,
+  });
   return {
     data,
     setData(newData) {
