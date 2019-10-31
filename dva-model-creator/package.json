@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dva-model-creator": "^0.4.3",
+    "react": "^16.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "umi-plugin-react": "^1.12.8",
+    "umi-types": "^0.5.3"
+  }
+}
