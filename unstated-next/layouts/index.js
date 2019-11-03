@@ -1,5 +1,5 @@
 import { Link, router } from 'umi';
-import Count from "../hooks/useCount";
+import Count from "../containers/Count";
 
 export default function (props) {
   return (

@@ -1,4 +1,4 @@
-import Count from '../../hooks/useCount';
+import Count from '../../containers/Count';
 
 export default function() {
   let { count, decrement, increment } = Count.useContainer();

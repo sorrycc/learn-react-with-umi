@@ -1,5 +1,5 @@
 import styles from './index.css';
-import Count from '../hooks/useCount';
+import Count from '../containers/Count';
 import CountDisplay from './components/CountDisplay';
 
 export default function() {
