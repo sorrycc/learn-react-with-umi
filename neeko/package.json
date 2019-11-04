@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@alipay/xmas-neeko": "^0.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "react": "^16.11.0",
+    "umi-plugin-autolayout": "link:../.plugins/umi-plugin-autolayout"
+  }
+}
