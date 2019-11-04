@@ -2,5 +2,8 @@
   "dependencies": {
     "@zeit/swr": "^0.1.1",
     "graphql-request": "^1.8.2"
+  },
+  "devDependencies": {
+    "umi-plugin-autolayout": "link:../.plugins/umi-plugin-autolayout"
   }
 }

@@ -6,6 +6,7 @@
   "devDependencies": {
     "@types/react": "^16.9.11",
     "umi-plugin-react": "^1.12.8",
-    "umi-types": "^0.5.3"
+    "umi-types": "^0.5.3",
+    "umi-plugin-autolayout": "link:../.plugins/umi-plugin-autolayout"
   }
 }

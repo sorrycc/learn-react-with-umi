@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "zustand": "^2.2.1"
+  },
+  "devDependencies": {
+    "umi-plugin-autolayout": "link:../.plugins/umi-plugin-autolayout"
   }
 }

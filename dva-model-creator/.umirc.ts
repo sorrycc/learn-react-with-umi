@@ -8,5 +8,6 @@ export default {
         dva: true,
       },
     ],
+    'umi-plugin-autolayout',
   ],
 } as IConfig;

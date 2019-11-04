@@ -1,4 +1,5 @@
 /*/node_modules
 /*/pages/.umi
 /*/yarn.lock
+/.plugins/*/node_modules
 

@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "hox": "^1.0.0"
+  },
+  "devDependencies": {
+    "umi-plugin-autolayout": "link:../.plugins/umi-plugin-autolayout"
   }
 }
