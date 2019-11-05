@@ -1,5 +1,5 @@
 import { request } from 'graphql-request';
-import useSWR from "@zeit/swr";
+import useSWR from "swr";
 
 const API = 'https://api.graph.cool/simple/v1/movies';
 

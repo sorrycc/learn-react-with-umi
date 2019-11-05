@@ -1,4 +1,4 @@
-import useSWR from "@zeit/swr";
+import useSWR from "swr";
 import { Link, router } from 'umi';
 import fetch from '../fetch';
 import {login, logout} from "../auth";

@@ -1,4 +1,4 @@
-import useSWR from '@zeit/swr';
+import useSWR from 'swr';
 import { useState } from 'react';
 import fetch from '../fetch';
 

@@ -1,4 +1,4 @@
-import useSWR from '@zeit/swr';
+import useSWR from 'swr';
 
 let state = {
   name: 'sorrycc',
