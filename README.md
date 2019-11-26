@@ -5,9 +5,11 @@
 * [dva-model-creator](./dva-model-creator)
 * [hox](./hox)
 * [icestore](./icestore)
+* [neeko](./neeko)
+* [@umijs/plugin-model](./plugin-model)
 * [react-suspense](./react-suspense)
 * [swr](./swr)
-* [umi-hooks](./umi-hooks)
+* [@umijs/hooks](./umi-hooks)
 * [unstated-next](./unstated-next)
 * [zustand](./zustand)
 
