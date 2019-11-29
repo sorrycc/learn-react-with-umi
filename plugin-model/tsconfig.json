@@ -18,7 +18,7 @@
     "strict": true,
     "paths": {
       "@/*": ["./*"],
-      "@tmp/*": ["./pages/.umi/*"]
+      "@@/*": ["./pages/.umi/*"]
     }
   },
   "exclude": [
