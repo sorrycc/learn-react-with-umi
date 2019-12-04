@@ -6,9 +6,11 @@ export default function() {
   const [value, setValue] = useState('');
   const { todos, addTodo, fetchTodos } = useModel('todos');
   const { count } = useModel('count');
+  const { initialState } = useModel('@@initialState');
   return (
     <div className={styles.normal}>
       <h1>Page index</h1>
+      <h2>Test {initialState || ''}</h2>
       <h2>Todos ({count})</h2>
       {
         todos.map(({ name, done }) => {

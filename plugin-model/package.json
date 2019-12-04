@@ -1,6 +1,11 @@
 {
+  "scripts": {
+    "start": "umi dev"
+  },
   "devDependencies": {
     "@types/react": "^16.9.11",
+    "@umijs/plugin-model": "^0.1.0",
+    "@umijs/plugin-initial-state": "^0.1.0",
     "umi-types": "^0.5.3",
     "umi-plugin-autolayout": "link:../.plugins/umi-plugin-autolayout"
   }
